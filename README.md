@@ -20,4 +20,4 @@ A responsive and interactive web-based password generator built using HTML, CSS,
 
 ## 🖥️ Live Demo
 
-👉 [Try it here](https://your-live-demo-link.ne)
+👉 [Try it here](https://prismatic-khapse-c3ca9c.netlify.app/)
