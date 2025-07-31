@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+}
+.box{
+    background-color: antiquewhite;
+    height: 30vh;
+    padding: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 1vw;
+    box-shadow: 10px 10px 10px;
+}
+.baki{
+    margin-top: 1.5vw;
+}
+.one{
+    margin: 0.4vw;
+}
